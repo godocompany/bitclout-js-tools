@@ -1,0 +1,21 @@
+{
+	"compileOnSave": false,
+	"compilerOptions": {
+		"strict": true,
+		"outDir": "./dist",
+		"sourceMap": true,
+		"declaration": true,
+		"downlevelIteration": true,
+		"experimentalDecorators": true,
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"importHelpers": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"target": "es2015",
+		"lib": [
+			"es2018",
+			"dom"
+		]
+	}
+}
